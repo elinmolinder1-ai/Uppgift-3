@@ -1,0 +1,11 @@
+h1 {
+  color:pink;
+}
+
+#btn {
+  padding: 15px 32px;
+  background-color: grey;
+  border-color: grey;
+  color: white;
+  font-size: 15px;
+}
