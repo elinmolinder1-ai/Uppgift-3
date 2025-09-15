@@ -9,5 +9,5 @@ changeTextBtn.addEventListener(
 
 
 function addText(){
- title.textContent = "GoodBye world!"
+ title.textContent = "GoodBye World!"
 }
